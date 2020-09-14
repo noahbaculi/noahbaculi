@@ -3,11 +3,14 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=noahbaculi.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fnoahbaculi.com%2F)](https://noahbaculi.com)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=aldras.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Faldras.com%2F)](https://aldras.com)
 
+<br />
 
 ## I'm a Student, Brother, and Avid Learner!
 
 - 🔭 I’m currently working on a software automation application, [Aldras](https://aldras.com/)!
 - 👯 I’m looking to collaborate with other automation specialists
+
+<br />
 
 ### Connect with me:
 
@@ -15,6 +18,7 @@
 [<img align="left" alt="Noah Baculi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Noah Baculi | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -30,6 +34,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs_code_site]
 [<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/600px-PyCharm_Logo.svg.png" />][pycharm_site]
 
+<br />
 <br />
 <br />
 
