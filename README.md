@@ -9,6 +9,7 @@
 
 - 🔭 I’m currently working on a software automation application, [Aldras](https://aldras.com/)!
 - 👯 I’m looking to collaborate with other automation specialists
+- 🎸 I enjoy playing fingerstyle guitar for fun
 
 <br />
 
