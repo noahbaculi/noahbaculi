@@ -38,7 +38,9 @@
 
 <p>
 <img align="left" alt="Noah's Github Stats" src="https://github-readme-stats.noahbaculi.vercel.app/api/top-langs?username=noahbaculi&show_icons=true&layout=compact" />
+
 <br />  
+
 <img align="left" alt="Noah's Github Stats" src="https://github-readme-stats.noahbaculi.vercel.app/api?username=noahbaculi&show_icons=true&hide_border=false&hide=stars,issues" /> 
 </p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
