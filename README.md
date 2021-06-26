@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=noahbaculi.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fnoahbaculi.com%2F)](https://noahbaculi.com)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=aldras.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Faldras.com%2F)](https://aldras.com)
 
-<br />
 
 ## I'm a Student, Brother, and Avid Learner!
 
@@ -39,12 +38,18 @@
 <br />
 <br />
 
-<details>
-  <summary>:pencil2: Github Stats</summary>
+<!-- <details> -->
+<!--   <summary> -->
+<!--   :pencil2: Github Stats -->
+<!-- </summary> -->
 
-  <img align="left" alt="Noah's Github Stats" src="https://github-readme-stats.noahbaculi.vercel.app/api?username=noahbaculi&show_icons=true&hide_border=true" />
+<p>
+<img align="left" alt="Noah's Github Stats" src="https://github-readme-stats.noahbaculi.vercel.app/api/top-langs?username=noahbaculi&show_icons=true&layout=compact" />
+<img align="left" alt="Noah's Github Stats" src="https://github-readme-stats.noahbaculi.vercel.app/api?username=noahbaculi&show_icons=true&hide_border=false&hide=stars,issues" />
+</p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-</details>
+<!-- </details> -->
 
 [website]: https://noahbaculi.com
 [facebook]: https://facebook.com/noahbaculi
