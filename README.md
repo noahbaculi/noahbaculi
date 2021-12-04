@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=noahbaculi.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fnoahbaculi.com%2F)](https://noahbaculi.com)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=aldras.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Faldras.com%2F)](https://aldras.com)
-[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=salesforcegalaxy.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2Fsalesforcegalaxy.com%2F)](https://salesforcegalaxy.com)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=salesforcegalaxy.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fsalesforcegalaxy.com)](https://salesforcegalaxy.com)
 
 
 ## I'm a Student, Brother, and Avid Learner!
