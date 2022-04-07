@@ -1,13 +1,14 @@
 ### Hello, I'm Noah! 👋
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=noahbaculi.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fnoahbaculi.com%2F)](https://noahbaculi.com)
-[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=aldras.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Faldras.com%2F)](https://aldras.com)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=aldras.netlify.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Faldras.com%2F)](https://aldras.netlify.com)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=salesforcegalaxy.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fsalesforcegalaxy.com)](https://salesforcegalaxy.com)
 
 
 ## I'm a Student, Brother, and Avid Learner!
 
-- 🔭 I’m currently working on a software automation application, [Aldras](https://aldras.com/)!
+- :rocket: I’m currently working on automation and data reporting in a microservice infrastrucutre @ [Carium](https://www.go.carium.com/)!
+- 🔭 I previously contributed to various projects at [Salesforce](https://www.salesforce.com/) and [Aldras](https://aldras.netlify.com/)
 - 👯 I’m looking to collaborate with other automation and process optimization enthusiasts
 - 🎸 I enjoy playing fingerstyle guitar for fun
 
