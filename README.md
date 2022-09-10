@@ -1,7 +1,7 @@
 ### Hello, I'm Noah! 👋
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=noahbaculi.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fnoahbaculi.com)](https://noahbaculi.com)
-[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=aldras.netlify.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Faldras.netlify.app)](https://aldras.netlify.com)
+[![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=aldras.netlify.app&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Faldras.netlify.app)](https://aldras.netlify.app)
 [![Website](https://img.shields.io/website?down_color=red&down_message=Down&label=salesforcegalaxy.com&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fsalesforcegalaxy.com)](https://salesforcegalaxy.com)
 
 
