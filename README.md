@@ -8,7 +8,7 @@
 ## I'm a Engineer, Brother, and Avid Learner!
 
 - :rocket: I’m currently working on automation and data reporting in a microservice infrastrucutre @ [Carium](https://www.go.carium.com/)!
-- 🔭 I previously contributed to various projects at [Salesforce](https://www.salesforce.com/) and [Aldras](https://aldras.netlify.com/)
+- 🔭 I previously contributed to various projects at [Salesforce](https://www.salesforce.com/) and [Aldras](https://aldras.netlify.app/)
 - 👯 I’m looking to collaborate with other automation and process optimization enthusiasts
 - 🎸 I enjoy playing fingerstyle guitar for fun and developing software that helps me play more
 
