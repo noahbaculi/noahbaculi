@@ -38,7 +38,12 @@
 <br /> 
 
 
-[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=noahbaculi&show_icons=true&layout=compact&count_private=true&exclude_repo=noahbaculi.github.io)](https://github.com/anuraghazra/github-readme-stats)
+![Noah's GitHub statistics](https://github.com/noahbaculi/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![Noah's GitHub statistics](https://github.com/noahbaculi/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![Languages Noah uses most, by file size](https://github.com/noahbaculi/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![Languages Noah uses most, by file size](https://github.com/noahbaculi/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 <!-- </details> -->
 
